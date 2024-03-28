@@ -43,7 +43,7 @@
 }
 #u2 {
   position:absolute;
-  left:280px;
+  left:291px;
   top:428px;
   width:32px;
   height:32px;
@@ -60,7 +60,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:81px;
+  width:101px;
   height:13px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -76,7 +76,7 @@
   position:absolute;
   left:255px;
   top:465px;
-  width:81px;
+  width:101px;
   height:13px;
   font-size:10px;
   color:#666666;
@@ -85,22 +85,22 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:81px;
+  width:101px;
   white-space:nowrap;
 }
 #u6 {
   position:absolute;
-  left:256px;
-  top:417px;
-  width:81px;
+  left:255px;
+  top:409px;
+  width:101px;
   height:81px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
 #u6_ann {
   position:absolute;
-  left:330px;
-  top:413px;
+  left:349px;
+  top:405px;
   width:1px;
   height:1px;
 }
